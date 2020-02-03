@@ -1,0 +1,6 @@
+framework module Pods_IOSPipelineEx {
+  umbrella header "Pods-IOSPipelineEx-umbrella.h"
+
+  export *
+  module * { export * }
+}
