@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  IOSPipelineEx
 //
-//  Created by Kanakaraju Gandreddi on 03/02/20.
-//  Copyright © 2020 Kanakaraju Gandreddi. All rights reserved.
-//
 
 import UIKit
 
